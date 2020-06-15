@@ -9,6 +9,7 @@
 #include "compress.hpp"
 
 using namespace itertools;
+
 using namespace std;
 
 TEST_CASE("range")
